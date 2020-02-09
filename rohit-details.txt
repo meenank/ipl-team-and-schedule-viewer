@@ -1,0 +1,26 @@
+Batting Career Summary:-
+M	Inn	NO	Runs	HS	Avg	BF	SR	100	200	50	4s	6s
+Test	27	47	7	1585	177	39.62	2881	55.02	3	0	10	151	32
+ODI	206	200	31	8010	264	47.4	9107	87.95	22	3	41	699	218
+T20I	94	86	14	2331	118	32.38	1693	137.68	4	0	16	207	102
+IPL	178	173	27	4611	109	31.58	3525	130.81	1	0	34	395	186
+
+Bowling Career Summary:-
+M	Inn	B	Runs	Wkts	BBI	BBM	Econ	Avg	SR	5W	10W
+Test	27	10	334	202	2	1/26	1/35	3.63	101.0	167.0	0	0
+ODI	206	38	593	515	8	2/27	2/27	5.21	64.38	74.12	0	0
+T20I	94	9	68	113	1	1/22	1/22	9.97	113.0	68.0	0	0
+IPL	178	30	332	440	15	4/6	4/6	7.95	29.33	22.13	0	0
+
+Personal Information:-
+Born: Apr 30, 1987 (31 years) 
+Birth Place: Nagpur, Maharashtra 
+Height: -- 
+Role: Batsman 
+Batting Style: Right Handed Bat 
+Bowling Style: Right-arm offbreak
+
+ICC Rankings:- 
+        Test  ODI  T20  
+Batting  51    2    11 
+Bowling  --   --    --
